@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Some other topics that interest me are Programming Languages, Game & Physics Engines and Simulations.
 - I am always willing to help out with Open Source Projects that align with my interests.
 - You can reach out to me @ yigitaras.tunali@gmail.com
-- For more information about me, feel free to look at my [personal website](www.yigitarastunali.com)
+- For more information about me, feel free to look at my [personal website](https://www.yigitarastunali.com)
