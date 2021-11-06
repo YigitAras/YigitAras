@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - I'm Yiğit Aras Tunalı. I'm currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
 - My areas of interest are Computer Vision & Graphics, Machine Learning and Robotics.
-- Some other topics that interest me are Programming Languages, Game & Physic Engines and Simulations.
+- Some other topics that interest me are Programming Languages, Game & Physics Engines and Simulations.
 - I am always willing to help out with Open Source Projects that align with my interests.
 - You can reach out to me @ yigitaras.tunali@gmail.com
 - For more information about me, feel free to look at my [personal website](www.yigitarastunali.com)
