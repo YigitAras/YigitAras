@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm Yiğit Aras Tunalı. I'm currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
+- I'm Yiğit Aras Tunalı. Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
 - My areas of interest are Computer Vision & Graphics, Machine Learning and Robotics.
 - Some other topics that interest me are Programming Languages, Game & Physics Engines and Simulations.
 - I am always willing to help out with Open Source Projects that align with my interests.
