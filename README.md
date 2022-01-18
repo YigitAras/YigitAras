@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ![snake svg](https://github.com/YigitAras/YigitAras/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical) -->
-
+<div align="center">
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical" />
 </div>
+ </div>
