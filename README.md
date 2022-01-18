@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
-<div align="center">
-<a href="https://github.com/mervekrblt/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=YigitAras&color=f75c7e">
-</a>
-<a href="https://github.com/mervekrblt?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/YigitAras?style=flat-square&color=f75c7e">
-</a>
-  </div>
 
 - I'm Yiğit Aras Tunalı. Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
 - My areas of interest are Computer Vision & Graphics, Simulations, Machine Learning and Robotics.
@@ -34,3 +25,7 @@ Here are some ideas to get you started:
 ![snake svg](https://github.com/YigitAras/YigitAras/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical) -->
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical" />
+</div>
