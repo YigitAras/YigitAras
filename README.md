@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <a href="https://github.com/mervekrblt/github-profile-views-counter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical">
+    <img align="center" src="https://komarev.com/ghpvc/?username=YigitAras&color=f75c7e">
 </a>
 <a href="https://github.com/mervekrblt?tab=followers">
     <img align="center"  src="https://img.shields.io/github/followers/YigitAras?style=flat-square&color=f75c7e">
