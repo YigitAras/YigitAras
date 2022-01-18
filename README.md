@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - I am always willing to help out with Open Source Projects that align with my interests, feel free to message me.
 - You can reach out to me @ yigitaras.tunali@gmail.com
 - For more information about me and my work, feel free to look at my [personal website](https://www.yigitarastunali.com)
+
+![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
