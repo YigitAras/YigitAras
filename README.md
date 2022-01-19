@@ -1,8 +1,10 @@
+<!--
 <h1 align="center">
  <div align="centering">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
  </div>
   </h1>
+ -->
 <!--
 **YigitAras/YigitAras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
