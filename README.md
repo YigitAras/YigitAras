@@ -1,5 +1,8 @@
-### Hello there 👋
-
+<h1 align="center">
+ <div align="centering">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+ </div>
+  </h1>
 <!--
 **YigitAras/YigitAras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Yiğit Aras Tunalı. Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+traveler;I'm+Yigit+Aras+Tunali;Stay+awhile+and+listen...">
+</p>
+</div>
+
+- Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
 - My areas of interest are Computer Vision & Graphics, Simulations, Machine Learning and Robotics.
 - Some other topics that interest me are Programming Languages, Game and Physics Engines.
 - I am always willing to help out with Open Source Projects that align with my interests, feel free to message me.
@@ -23,9 +32,9 @@ Here are some ideas to get you started:
 - For more information about me and my work, feel free to look at my [personal website](https://www.yigitarastunali.com)
 
 <!-- ![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+traveler;I'm+Yigit+Aras+Tunali;Stay+awhile+and+liste...)](https://git.io/typing-svg) -->
 
-
- <div align="center">
+<div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
