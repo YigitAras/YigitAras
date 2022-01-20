@@ -50,7 +50,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitAras&layout=compact&theme=tokyonight" />
 </a>
  </div>
+ <!--
   <div>
 <img align="center" src="https://github.com/YigitAras/YigitAras/blob/output/github-contribution-grid-snake.svg" />
 </div>
+-->
  </div>
