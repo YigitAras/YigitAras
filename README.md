@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+traveler!;I'm+Yigit+Aras+Tunali;Stay+awhile+and+listen...">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Greetings+traveler!;I'm+Yigit+Aras+Tunali;Stay+awhile+and+listen...">
 </p>
 </div>
 
