@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Greetings+traveler!;I'm+Yigit+Aras+Tunali;Stay+awhile+and+listen...">
 </p>
- <div align="centering">
-  <img align="centering" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
- </div>
 </div>
 
 - Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
