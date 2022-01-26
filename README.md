@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Greetings+traveler!;I'm+Yigit+Aras+Tunali;Stay+awhile+and+listen...">
 </p>
+ <div align="centering">
+  <img align="centering" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+ </div>
 </div>
 
 - Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
@@ -37,9 +40,6 @@ Here are some ideas to get you started:
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+traveler;I'm+Yigit+Aras+Tunali;Stay+awhile+and+liste...)](https://git.io/typing-svg) -->
  
 <div align="center">
- <div align="centering">
-  <img align="centering" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
- </div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
