@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Some other topics that interest me are Programming Languages, Game and Physics Engines.
 - I am always willing to help out with Open Source Projects that align with my interests, feel free to message me.
 - You can reach out to me via [e-mail](yigitaras.tunali@gmail.com).
-- For more information about me and my work, feel free to look at my [personal website](https://www.yigitarastunali.com)
+- For more information about me and my work, feel free to look at my [personal website](https://www.yigitarastunali.com).
 
 <!-- ![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=radical) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+traveler;I'm+Yigit+Aras+Tunali;Stay+awhile+and+liste...)](https://git.io/typing-svg) -->
