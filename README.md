@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YigitAras&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YigitAras&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
   <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YigitAras&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  <div align="center">
   <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitAras&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YigitAras&layout=compact&theme=tokyonight" />
 </a>
  </div>
  <!--
