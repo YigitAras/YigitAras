@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 - Currently working towards my MSc in Computer Science at the Technical University of Munich. <br>
-- My areas of interest are Computer Graphics, Simulations, Machine Learning, Computer Vision and Robotics.
+- My areas of interest are Computer Graphics, Simulations, Machine Learning, and Computer Vision.
 - Some other topics that interest me are Programming Languages, Game and Physics Engines.
 - You can reach out to me via [e-mail](yigitaras.tunali@gmail.com).
 - For more information about me and my work, feel free to look at my [personal website](https://www.yigitarastunali.com).
