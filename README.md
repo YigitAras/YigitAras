@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-- MSc in Computer Science from the Technical University of Munich. <br>
+- BSc @ Sabanci Universtiy, MSc @ TU Munich <br>
 - My areas of interest are Computer Graphics, Simulations, Machine Learning, and Computer Vision.
 - You can reach out to me via [e-mail](yigitaras.tunali@gmail.com).
 - For more information about me and my work, feel free to look at my [personal website](https://www.yigitarastunali.com).
